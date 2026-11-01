@@ -1,0 +1,43 @@
+
+.root {
+    -fx-background-color: #0F172A;
+    -fx-font-family: "Arial";
+}
+
+.label {
+    -fx-text-fill: #E2E8F0;
+}
+
+.button {
+    -fx-background-color: #2563EB;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20;
+    -fx-background-radius: 8;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #3B82F6;
+}
+
+.text-field {
+    -fx-background-color: #1E293B;
+    -fx-text-fill: white;
+    -fx-prompt-text-fill: #94A3B8;
+    -fx-border-color: #334155;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+}
+
+.combo-box {
+    -fx-background-color: #1E293B;
+    -fx-text-fill: white;
+}
+
+.card {
+    -fx-background-color: #1E293B;
+    -fx-background-radius: 12;
+    -fx-padding: 20;
+}
+
